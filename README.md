@@ -17,3 +17,7 @@ npm install expo-router
 npm install --save-dev typescript @types/react @types/react-native
 
 npm install -g expo-cli
+
+npm install leaflet
+
+npm install react-native-web-leaflet
